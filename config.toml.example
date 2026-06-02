@@ -1,0 +1,7 @@
+[api]
+base-url="api.mobilitydatabase.org"
+api-version=1
+
+[agencies]
+
+# 'Transit Windsor'.id = "mdb-720"

@@ -1,3 +1,4 @@
 /target
 /secrets.toml
+/config.toml
 /dataset-cache
